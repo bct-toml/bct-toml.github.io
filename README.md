@@ -11,13 +11,13 @@ Max Supply = 21,000,000,000
 60% for fair launch/liquidity 20% for development 10% for incentive to encourage cryptocurrency adoption 10% for pioneers and contributors locked for 4years
 
 ### Project Key Features
-#### Fair Launch⚡
+#### Fair Launch
 Blackchiptoken is decentralised and community-driven. Therefore was launched for everyone, making all tokens available for everyone on all StellarDEXs; ensuring safety, full ownership and control by traders and users. Simply put, "your secret keys, your crypto and funds"
-#### Liquidity Locked🔒
+#### Liquidity Locked
 60% of fair launch allocation will be used to create BCT-XLM liquidity pool and locked (100%) forever to begin with. Issuer ID [contract address] will be renounced and locked forever, upon the launch of website to host the stellar.toml file.
-#### Community Driven👥
+#### Community Driven
 Blackchiptoken is decentralised and community-driven unlike any other crypto project with a strong community, governed by goal driven fervent pioneers and volunteers.
-#### Project Funds🛡
+#### Project Funds
 20% of development allocation will be used for project's website development, marketing and CEXs listing for a start. External revenue will be generated to support project's Continous developments in the future.
 
 ### Frequently Asked Questions
