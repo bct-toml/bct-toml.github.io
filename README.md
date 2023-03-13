@@ -1,4 +1,4 @@
-###### Main Website is Coming Soon
+###### Marketplace #mainwebsite is coming soon
 # Discover The Giant Crypto!
 ### What is Blackchiptoken?
 Blackchiptoken is a decentralised utility token, birthed by fervent pioneers and contributors to foster global mass adoption and daily usage of cryptocurrency across the continent of Africa through incentives and a global peer-to-peer marketplace. Built on Stellar Network to maintain 0% trading fees, low cost gasfee and super fast transactions, with max total supply of 21 billion, ownership renounced and Liquidity locked forever.
@@ -37,4 +37,4 @@ Telegram: @blackchiptoken
 
 YouTube: @blackchiptoken
 
-Copyright © 2023 Blackchiptoken. All rights reserved.
+###### Copyright © 2023 Blackchiptoken. All rights reserved.
